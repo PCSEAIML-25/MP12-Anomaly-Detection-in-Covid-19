@@ -128,13 +128,10 @@ Open your browser and go to `http://localhost:8501` to access the app.
 
 Feel free to fork the repository, submit issues, or create pull requests if you want to contribute!
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
-Created by Harsh Vardhan Gupta. For any inquiries, please reach out via GitHub.
+Created by AIML. For any inquiries, please reach out via GitHub.
 
 ---
 
