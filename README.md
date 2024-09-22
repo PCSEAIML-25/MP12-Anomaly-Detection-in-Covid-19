@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multiple Disease Prediction System
 
 Welcome to the Multiple Disease Prediction System  ! This web application allows users to predict the likelihood of three major health conditions: Diabetes, Heart Disease, and Parkinson's Disease using machine learning models.
