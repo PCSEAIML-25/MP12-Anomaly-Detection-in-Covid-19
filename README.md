@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 41878bc (Final)
@@ -83,6 +84,8 @@ Happy predicting!
 <<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> 34abf483423f5aee8cd1e75a85424a79dcd068de
 # Multiple Disease Prediction System
 
 Welcome to the Multiple Disease Prediction System  ! This web application allows users to predict the likelihood of three major health conditions: Diabetes, Heart Disease, and Parkinson's Disease using machine learning models.
@@ -151,5 +154,10 @@ Created by AIML. For any inquiries, please reach out via GitHub.
 ---
 
 Happy predicting!
+<<<<<<< HEAD
 >>>>>>> 9bacc22 (change commit)
 >>>>>>> 41878bc (Final)
+=======
+=======
+
+>>>>>>> 34abf483423f5aee8cd1e75a85424a79dcd068de
